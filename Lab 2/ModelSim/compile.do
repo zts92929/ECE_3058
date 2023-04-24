@@ -1,0 +1,10 @@
+vlog -reportprogress 300 -work work {../CONTROL.sv}
+vlog -reportprogress 300 -work work {../DMEMORY.sv}
+vlog -reportprogress 300 -work work {../EXECUTE.sv}
+vlog -reportprogress 300 -work work {../FWD_CONT.sv}
+vlog -reportprogress 300 -work work {../IDECODE.sv}
+vlog -reportprogress 300 -work work {../IFETCH.sv}
+vlog -reportprogress 300 -work work {../MIPS.sv}
+vlog -reportprogress 300 -work work {../MIPS_tb.sv}
+vlog -reportprogress 300 -work work {../STALL_CONT.sv}
+vlog -reportprogress 300 -work work {../WRITE_BACK.sv}

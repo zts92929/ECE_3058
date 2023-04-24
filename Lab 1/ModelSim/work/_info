@@ -1,0 +1,157 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/rtl/ModelSim
+vcontrol
+Z0 !s110 1644193106
+!i10b 1
+!s100 i1_hWB_oRSVlBS?FD@BEN0
+I8eM=[6z>G6eCiP8PJi00O1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dc:/rtl/modelSim
+w1644192528
+8../control.v
+F../control.v
+L0 8
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1644193106.000000
+!s107 ../control.v|
+!s90 -reportprogress|300|-work|work|../control.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vdecode
+R0
+!i10b 1
+!s100 88fTazk;ikK8m@^W@=jlg0
+I>NKmSd`A26^hS6<UeXYfH0
+R1
+R2
+Z7 w1643073015
+8../decode.v
+F../decode.v
+Z8 L0 10
+R3
+r1
+!s85 0
+31
+R4
+!s107 ../decode.v|
+!s90 -reportprogress|300|-work|work|../decode.v|
+!i113 1
+R5
+R6
+vexecute
+Z9 !s110 1644193107
+!i10b 1
+!s100 RYEenI[dPAd5AeRWD9_5C0
+Ij?<zdjg9QKTe:TN=QeUP@3
+R1
+R2
+w1644192292
+8../execute.v
+F../execute.v
+L0 8
+R3
+r1
+!s85 0
+31
+Z10 !s108 1644193107.000000
+!s107 ../execute.v|
+!s90 -reportprogress|300|-work|work|../execute.v|
+!i113 1
+R5
+R6
+vfetch
+R9
+!i10b 1
+!s100 SD3Pz5F_CKOl6lB2[c=<e2
+I:e7:GeYiZ52FASY3oioZX1
+R1
+R2
+w1644192972
+8../fetch.v
+F../fetch.v
+R8
+R3
+r1
+!s85 0
+31
+R10
+!s107 ../fetch.v|
+!s90 -reportprogress|300|-work|work|../fetch.v|
+!i113 1
+R5
+R6
+vmemory
+R9
+!i10b 1
+!s100 DnkaJM@=^GiAWf`ODJWfn0
+ILGQERej^T;3UWJ[C1G6dQ2
+R1
+R2
+R7
+8../memory.v
+F../memory.v
+L0 7
+R3
+r1
+!s85 0
+31
+R10
+!s107 ../memory.v|
+!s90 -reportprogress|300|-work|work|../memory.v|
+!i113 1
+R5
+R6
+vmips
+R9
+!i10b 1
+!s100 m9kNeYK[WJbKBhQdZ]i1W2
+If@:TLZKbGBNRX1K[VM9iS3
+R1
+R2
+w1643073018
+8../mips.v
+F../mips.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 ../mips.v|
+!s90 -reportprogress|300|-work|work|../mips.v|
+!i113 1
+R5
+R6
+vmips_tb
+R9
+!i10b 1
+!s100 o[R6YQBiZ^]<7KDbl[4JE2
+ImSAMX2DRj9nl^A2HcfboN1
+R1
+R2
+R7
+8../mips_tb.v
+F../mips_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 ../mips_tb.v|
+!s90 -reportprogress|300|-work|work|../mips_tb.v|
+!i113 1
+R5
+R6
